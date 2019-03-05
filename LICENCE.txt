@@ -1,0 +1,5 @@
+This package is completely free to use and distribute.
+
+This is a mock package designed to meet the requirements of Mango's Data Scientist Technical test.
+
+I've created a Licence file as it's standard procedure during package release.
